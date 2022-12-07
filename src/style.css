@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: 0;
+}
+
+body {
+  background-color: bisque;
+  font-size: 1.5em;
+  margin-top: 20px;
+  padding: 5rem 8%;
+}
+button {
+  padding: 10px 20px;
+  margin-left: 20px;
+  background: brown;
+  color: white;
+  font-size: 0.9em;
+  border-radius: 10px;
+}
